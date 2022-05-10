@@ -56,13 +56,13 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '6285161098098' ]
+global.owner = [ '16477944776' ]
 
 
-global.premium = ['6285161098098']
+global.premium = ['16477944776']
 
 
-global.packname = 'Sanzy Gemoyyy'
+global.packname = 'Ow nis Gemoy'
 
 
 global.author = 'WhatsApp Bot'
